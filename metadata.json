@@ -1,0 +1,6 @@
+{
+  "name": "LexMatríz Colombia",
+  "description": "Plataforma de auditoría legal corporativa y matriz de requisitos normativos y riesgos de incumplimiento en la República de Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
